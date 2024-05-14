@@ -12,5 +12,5 @@ RUN npm run build
 
 EXPOSE 8070
 
-CMD [ "npm", "run", "server" ]
+CMD [ "npm", "run", "preview" ]
 
